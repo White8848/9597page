@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LuBan Robotics Team 9597 Hub",
+  "description": "A high-fidelity technical dashboard for LuBan Robotics, featuring mission telemetry, technical logs, and media feeds with a futuristic cyberpunk aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
